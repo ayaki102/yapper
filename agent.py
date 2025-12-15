@@ -3,7 +3,7 @@ import random
 import requests
 import subprocess
 
-SERVER = "http://0.0.0.0:42069"
+SERVER = "https://yapper-p7m1.onrender.com"
 
 while True:
     random_int = random.randint(1,40)
